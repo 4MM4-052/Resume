@@ -37,7 +37,7 @@ I enjoy working with data, building machine learning models, and exploring AI so
 ### 🐍 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,sql" />
+  <img src="https://skillicons.dev/icons?i=python,sql" />
 </p>
 
 ### 📊 Data Science & Machine Learning
