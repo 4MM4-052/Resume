@@ -23,9 +23,9 @@ I enjoy working with data, building machine learning models, and exploring AI so
 
 | Project                            | Description                                            | Tech Stack                       |
 | ---------------------------------- | ------------------------------------------------------ | -------------------------------- |
-| 🌱 **Plant Disease Diagnosis**     | Unimodal & multimodal plant disease classification     | Python · Deep Learning · PhoBERT |
+| 🌱 **Plant Disease Diagnosis**     | Unimodal & multimodal plant disease classification     | Python · Deep Learning · Machine learning · PhoBERT |
 | 🥬 **Vegetable Classification**    | CNN-based vegetable image classification               | Python · CNN · Deep Learning     |
-| 🌾 **Rice Variety Classification** | Classification of Cammeo and Osmancik rice varieties   | Python · Pandas · Scikit-learn   |
+| 🌾 **Rice Variety Classification** | Classification of Cammeo and Osmancik rice varieties   | Python · Machine learning · Scikit-learn   |
 | 🔐 **Image Steganography**         | Secure image hiding using Encoder–Decoder and GAN      | Python · Deep Learning · GAN     |
 | 🚚 **Product Optimization**        | Truck loading optimization using Genetic Algorithm     | Python · Genetic Algorithm       |
 | 🍽️ **Restaurant Booking & AI**    | Booking website with chatbot and review classification | Python · Rasa · PhoBERT · ML     |
